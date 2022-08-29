@@ -1,5 +1,4 @@
--- make by Bacon @daffa_fakhrizzal
--- Bacon v4
+
 local ScreenGui = Instance.new("ScreenGui")
 local main = Instance.new("Frame")
 local quest = Instance.new("Frame")
